@@ -1,0 +1,15 @@
+# lab3-client.yaml
+---
+spring:
+  profiles: one
+  lucky-word: Irish
+
+---
+spring:
+  profiles: two
+  lucky-word: Rabbit's Foot
+  
+---
+spring:
+  profiles: three
+  lucky-word: Serendipity
